@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-nuxt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pi0/nuxt-nuxt.git",
+  "author": "Pooya Parsa <pooya@pi0.ir>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt",
+    "start": "nuxt start",
+    "build": "nuxt build",
+    "generate": "nuxt generate"
+  },
+  "devDependencies": {
+    "nuxt-edge": "^2.0.0-25379389.e4593e2"
+  }
+}
