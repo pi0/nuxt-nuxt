@@ -7,7 +7,7 @@ export default {
             splitChunks: {
                 name: true
             },
-            minimizer: []
+            // minimizer: []
         }
     }
 }
