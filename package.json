@@ -12,6 +12,6 @@
     "generate": "nuxt generate"
   },
   "devDependencies": {
-    "nuxt-edge": "^2.0.0-25379389.e4593e2"
+    "nuxt-edge": "^2.0.0-25390984.952dfe0"
   }
 }
